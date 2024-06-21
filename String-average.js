@@ -33,3 +33,5 @@ const averageString = (str) => {
   const average = Math.floor(sum / nums.length)
   return numbers[average]
 }
+
+// or
