@@ -9,3 +9,6 @@ Example:
 
 If the string is empty or includes a number greater than 9, return "n/a"
 */
+
+
+// Solution
